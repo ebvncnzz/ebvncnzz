@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ebvncnzz
-- 👀 I’m interested in tech
+
 - 🌱 I’m currently learning Python
-- 📫 Living in Portugal
-- 😄 Pronouns: He/Him
+- 📫 Living in Faro, Portugal
+
 - ⚡ Fun fact: I'm a brazilian mechanical engineer living in Portugal looking foward to learning code
 
 <!---
